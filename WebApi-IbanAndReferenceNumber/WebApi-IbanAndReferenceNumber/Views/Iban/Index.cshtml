@@ -1,0 +1,10 @@
+﻿@Model WebApi_IbanAndReferenceNumber.Models.Iban
+
+<h2>Input Iban number to textbox</h2>
+
+<form asp-action="Check" asp-controller="Iban">
+    <div>
+        <input name="IbanNumber"/>
+        <input type="submit" value="Check Iban"/>
+    </div>
+</form>
