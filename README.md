@@ -1,4 +1,4 @@
 # ASP.NET MVC
-C#
+Visual Studio, C#
 
 Web Api that checks if reference number is correct.
